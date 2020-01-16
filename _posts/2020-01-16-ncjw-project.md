@@ -48,6 +48,6 @@
 ### 项目主要流程
 
 
-![](2020-01-16-ncjw-project/南充业务流程.jpg)
+![JPG](`{{site.baseurl}}`/img/南充业务流程.jpg)
 
 
