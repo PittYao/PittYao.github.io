@@ -48,6 +48,6 @@
 ### 项目主要流程
 
 
-![南充业务流程](C:\myWork\WorkSpace\南充纪委\资料\PittYao.github.io\_posts\南充业务流程.png)
+![](2020-01-16-ncjw-project/南充业务流程.png)
 
 
