@@ -52,13 +52,11 @@ docs-zh:
   - title:      ncjw项目导航
     children:
       - title: 业务平台
-        url: https://pittyao.github.io/2020/01/16/ncjw-project
-      - title: 视频播放插件
-        url: https://pittyao.github.io/2020/01/16/ncjw-media-player-plugin.html
+        url: https://pittyao.github.io/2020/01/16/ncjw-project.html
+      - title: 视频播放加密软件
+        url: https://pittyao.github.io/2020/01/16/ncjw-media-player-encode-plugin.html
       - title: 刻录机
         url: https://pittyao.github.io/2020/01/16/ncjw-oda.html
-      - title: 加密软件   
-        url: https://pittyao.github.io/2020/01/16/ncjw-encode-plugin.html
       - title: 合成服务器合成软件
         url: https://pittyao.github.io/2020/01/16/ncjw-mix-video-plugin.html
       
