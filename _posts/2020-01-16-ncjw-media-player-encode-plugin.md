@@ -1,5 +1,5 @@
 ---
-title: 插件
+title: 视频播放加密插件
 tags: 插件
 sidebar:
   nav: docs-zh
