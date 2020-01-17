@@ -53,7 +53,7 @@ docs-zh:
     children:
       - title: 业务平台
         url: https://pittyao.github.io/2020/01/16/ncjw-project.html
-      - title: 视频播放加密软件
+      - title: 视频播放加密插件
         url: https://pittyao.github.io/2020/01/16/ncjw-media-player-encode-plugin.html
       - title: 刻录机
         url: https://pittyao.github.io/2020/01/16/ncjw-oda.html
