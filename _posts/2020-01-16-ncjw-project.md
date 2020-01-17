@@ -1,3 +1,10 @@
+---
+title: 业务平台
+tags: 业务平台
+sidebar:
+  nav: docs-zh
+---
+
 ### 1.项目介绍
 
 ​	ncjw主要作用于办案人员的无纸化操作。

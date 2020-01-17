@@ -1,3 +1,10 @@
+---
+title: 插件
+tags: 插件
+sidebar:
+  nav: docs-zh
+---
+
 ### 1.插件功能
 
 1. 直播摄像头视频
